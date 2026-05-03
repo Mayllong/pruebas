@@ -1,5 +1,5 @@
 {
-  "latest_version": "6.5",
-  "update_url": "https://github.com/Mayllong/NewEmisorApp-Updates/releases/download/Version/NewEmisorApp6.9.apk",
-  "changelog": "• Mejoramos compatibilidad con Android 16\n• Mejoramos la estabilidad de algunos canales\n• Corrección de errores en el reproductor"
+  "latest_version": "3.0",
+  "update_url": "https://github.com/Mayllong/pruebas/releases/download/prueba/app-debug.apk",
+  "changelog": "• Mejoramos canales (WIN+)\n• Actualizamos Dependencias para estar al dia con las nuevas Tecnologias\n• Agregamos nuevos canales en la Seccion DEPORTES (tycinternacional, Tigo Sports Guatemala, Multivision Sports y 4+)"
 }
